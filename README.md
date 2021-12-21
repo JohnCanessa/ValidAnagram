@@ -9,7 +9,7 @@ an anagram of the other.
 If interested in my comments and approach I invit eyou to 
 read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/21/leetcode-242-valid-anagram-in-java/
 
 Keep on reading and experimenting. It is one of the best
 ways to lear. I have been told that practice makes perfect.
